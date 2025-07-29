@@ -5,7 +5,7 @@ from telegram import Bot
 from datetime import datetime, timedelta
 
 # اطلاعات ربات و کانال‌ها
-TOKEN = 'توکن_ربات_خودت'
+TOKEN = '8206273888:AAFvGzUunE_orx6Tt0XDfGcOEzOJyH8RASw'
 CHANNEL_IDS = ['@OghabCrypto', '@Trademr2', '@IRcryptoLab']  # آیدی کانال‌ها
 
 bot = Bot(token=TOKEN)
